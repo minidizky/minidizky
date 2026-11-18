@@ -1,7 +1,7 @@
 <p align="center"><a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Ftoypaz%2Ftoypaz"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftoypaz%2Ftoypaz&label=hailairhous&labelColor=%230e7490&countColor=%23fffff1&style=plastic&labelStyle=lower" /></a></p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o2qzvpinpd3nrild7gf3wyymcq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o2qzvpinpd3nrild7gf3wyymcq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=63462c&bar_color_cover=false">
   </a>
 </p>
 <table align="center">
