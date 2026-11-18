@@ -22,3 +22,5 @@
   <a href="https://github.com/toypaz/lazy-art">lazy art repo</a>
 </p>
   <hr>
+<p align="center"> <img width="673" height="150" alt="image (1)" src="https://github.com/user-attachments/assets/b19d6e66-9caa-42e8-a408-48271e31ffcf" />
+</p>
