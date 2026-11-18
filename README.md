@@ -25,8 +25,8 @@ hi im momo. pingu bible me. gamesphere. also me .. -- .... .- ...- .. -. --. .- 
 <table align="center">
   <tr align="center" valign="middle">
     <td width="30%">
- <img width="736" height="736" alt="Untitled16_20261114123634" src="https://github.com/user-attachments/assets/d9daa8e3-6be8-44db-ac32-f8fa642c0f28" />
-  </td>
+ <img width="220" height="191" alt="thinking-hmm" src="https://github.com/user-attachments/assets/39d8c208-5d1b-448f-bca6-c05ea73e24ad" />
+</td>
     <td width="70%" align="left">
   <p> $\color{#00000}\text{im wherever i can be}$</p>
       <p> $\color{#2d2d2d}\text{iwcare i sometimes do things wrong on accident}$</p>
