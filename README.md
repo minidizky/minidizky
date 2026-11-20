@@ -24,3 +24,7 @@
   <hr>
 <p align="center"> <img width="673" height="150" alt="image (1)" src="https://github.com/user-attachments/assets/b19d6e66-9caa-42e8-a408-48271e31ffcf" />
 </p>
+<p align="center">
+oh im just playing my new gamesphere AND ITS SPHERICAL !!!!!!!!!
+<img width="220" height="103" alt="toko-fukawa-danganronpa" src="https://github.com/user-attachments/assets/2712b9bb-158e-4f14-bb1f-408a55fe8984" />
+</p>
