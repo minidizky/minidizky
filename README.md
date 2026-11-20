@@ -12,6 +12,7 @@
     <td width="70%" align="left">
   <p>im wherever i can be</p>
       <p>i do whatever i want</p>
+<p>embarrassing acts counter : 5! (dont get mad at me if i do something embarrassing)</p>   
     </td>
   </tr>
 </table>
