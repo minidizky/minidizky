@@ -7,7 +7,7 @@
 <table align="center">
   <tr align="center" valign="middle">
     <td width="30%">
- <img width="220" height="191" alt="thinking-hmm" src="https://github.com/user-attachments/assets/39d8c208-5d1b-448f-bca6-c05ea73e24ad" />
+ <img width="736" height="736" alt="IMG_0120" src="https://github.com/user-attachments/assets/acd1b100-9161-4319-8947-9ee3b936307b" />
 </td>
     <td width="70%" align="left">
   <p>im wherever i can be</p>
