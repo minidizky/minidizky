@@ -16,7 +16,7 @@
   </tr>
 </table>
 <p align="center">
- <img width="220" height="124" alt="animatic-battle-ab" src="https://github.com/user-attachments/assets/603a27c1-dbfd-4152-8c3b-4a487472bd98" />
-  <img width="220" height="124" alt="ab-osc" src="https://github.com/user-attachments/assets/d81e5604-96ba-4157-83f4-a0561a522113" />
+ <img width="220" height="165" alt="popmusic-popcorn-ab" src="https://github.com/user-attachments/assets/b0652431-f07f-4ead-9efd-57bd7a8b2152" />
+ <img width="220" height="124" alt="ab-osc" src="https://github.com/user-attachments/assets/d81e5604-96ba-4157-83f4-a0561a522113" />
 <p align="center"> <a href="https://aleealee.atabook.org">新book</a></p>
   <hr>
