@@ -15,12 +15,8 @@
     </td>
   </tr>
 </table>
-<p align="center"><img width="220" height="124" alt="ab-osc" src="https://github.com/user-attachments/assets/d81e5604-96ba-4157-83f4-a0561a522113" />
 <p align="center">
-  <a href="https://aleealee.atabook.org">新book</a>
-⠀ ⠀ ⠀ ⠀ ⠀
-  <a href="https://github.com/toypaz/lazy-art">lazy art repo</a>
-</p>
+ <img width="220" height="124" alt="animatic-battle-ab" src="https://github.com/user-attachments/assets/603a27c1-dbfd-4152-8c3b-4a487472bd98" />
+  <img width="220" height="124" alt="ab-osc" src="https://github.com/user-attachments/assets/d81e5604-96ba-4157-83f4-a0561a522113" />
+<p align="center"> <a href="https://aleealee.atabook.org">新book</a></p>
   <hr>
-<p align="center"> <img width="673" height="150" alt="image (1)" src="https://github.com/user-attachments/assets/b19d6e66-9caa-42e8-a408-48271e31ffcf" />
-</p>
