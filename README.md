@@ -33,7 +33,7 @@
         $\color{#A15FB5}\text{want}$
       </p>   
   <p align="center">
-    $\color{#F7B3EA}\text{(,,>﹏<,,) ⠀ „ kalau}$
+    $\color{#F7B3EA}\text{(,,>﹏<,,) ⠀ „⠀ kalau}$
     &nbsp; &nbsp;
     $\color{#F6B2F1}\text{boleh}$
     &nbsp; &nbsp;
