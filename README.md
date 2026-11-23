@@ -32,6 +32,19 @@
         &nbsp; &nbsp;
         $\color{#A15FB5}\text{want}$
       </p>   
+  <p align="center">
+    $\color{#F7B3EA}\text{(,,>﹏<,,) 💬 „ kalau}$
+    &nbsp; &nbsp;
+    $\color{#F6B2F1}\text{boleh}$
+    &bsp; &nbsp;
+    $\color{#FDB9D7}\text{aku}$
+   &nbsp; &nbsp;
+      $\color{#792F64}\text{dah}$
+      &nbsp; &nbsp;
+      $\color{#E09CE6}\text{memang}$
+      &nbsp; &nbsp:
+      $\color{##AD7ACB}\text{buat “}$
+    </p>
     </td>
   </tr>
 </table>
