@@ -55,6 +55,6 @@
 &nbsp; &nbsp; &nbsp;
   <a href="https://youtu.be/MpPF7w9FfQg?si=tviWN7UrutUluG4J">˶ˊ☐ˋ˶</a>
   &nbsp; &nbsp; &nbsp;
-  <a href="https://pronouns.cc/minidiskyute">
+  <a href="https://pronouns.cc/minidiskyute">kyaaaa prns</a>
 </p>
   <hr>
