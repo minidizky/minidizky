@@ -36,7 +36,7 @@
     $\color{#F7B3EA}\text{(,,>﹏<,,) 💬 „ kalau}$
     &nbsp; &nbsp;
     $\color{#F6B2F1}\text{boleh}$
-    &bsp; &nbsp;
+    &nbsp; &nbsp;
     $\color{#FDB9D7}\text{aku}$
    &nbsp; &nbsp;
       $\color{#792F64}\text{dah}$
