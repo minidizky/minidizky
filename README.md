@@ -7,7 +7,7 @@
 <table align="center">
   <tr align="center" valign="middle">
     <td width="30%">
- <img width="735" height="706" alt="IMG_0141" src="https://github.com/user-attachments/assets/b8ae4c6e-18a3-4e25-8894-ae669d9ad6bc" />
+ <img width="2048" height="2048" alt="Untitled67_20261123135958" src="https://github.com/user-attachments/assets/ec883015-87c6-4cc7-97f5-a9a091c23872" />
 </td>
     <td width="70%" align="left">
   <p>im wherever i can be</p>
@@ -16,7 +16,5 @@
     </td>
   </tr>
 </table>
-<p align="center">
- <img width="220" height="124" alt="ab-osc" src="https://github.com/user-attachments/assets/d81e5604-96ba-4157-83f4-a0561a522113" />
 <p align="center"> <a href="https://aleealee.atabook.org">新book</a></p>
   <hr>
