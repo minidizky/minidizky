@@ -48,5 +48,9 @@
     </td>
   </tr>
 </table>
-<p align="center"> <a href="https://aleealee.atabook.org">新book</a></p>
+<p align="center"> 
+  <a href="https://aleealee.atabook.org">新book</a>
+&nbsp; &nbsp; &nbsp;
+  <a href="https://youtu.be/MpPF7w9FfQg?si=tviWN7UrutUluG4J">˶ˊ☐ˋ˶</a>
+</p>
   <hr>
