@@ -10,9 +10,28 @@
  <img width="2048" height="2048" alt="Untitled67_20261123135958" src="https://github.com/user-attachments/assets/ec883015-87c6-4cc7-97f5-a9a091c23872" />
 </td>
     <td width="70%" align="left">
-  <p>im wherever i can be</p>
-      <p>i do whatever i want</p>
-<p>embarrassing acts counter: 5</p>   
+  <p align="center"> 
+    $\color{#A37BCC}\text{im}$
+    &nbsp; &nbsp;
+    $\color{#E2B9FD}\text{wherever}$
+    &nbsp; &nbsp;
+    $\color{#F5B9FD}\text{i}$
+    &nbsp; &nbsp;
+    $\color{#D0C1FF}\text{can}$
+    &nbsp; &nbsp;
+    $\color{#E6D3FF}\text{be}$
+  </p>
+      <p align="center"> 
+      $\color{#D18BAF}\text{i}$
+      &nbsp; &nbsp;
+      $\color{#FCF2C6}\text{do}$
+        &nbsp; &nbsp;
+      $\color{#FFFFFF}\text{whatever}$
+        &nbsp; &nbsp;
+        $\color{#DC97B3}\text{i}$
+        &nbsp; &nbsp;
+        $\color{#A15FB5}\text{want}$
+      </p>   
     </td>
   </tr>
 </table>
