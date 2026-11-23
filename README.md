@@ -43,7 +43,7 @@
       &nbsp; &nbsp;
       $\color{#E09CE6}\text{memang}$
       &nbsp; &nbsp:
-      $\color{##AD7ACB}\text{buat “}$
+      $\color{#AD7ACB}\text{buat “}$
     </p>
     </td>
   </tr>
