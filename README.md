@@ -39,9 +39,9 @@
     &nbsp; &nbsp;
     $\color{#FDB9D7}\text{aku}$
    &nbsp; &nbsp;
-      $\color{#792F64}\text{dah}$
+      $\color{#792F64}\text{memang}$
       &nbsp; &nbsp;
-      $\color{#E09CE6}\text{memang}$
+      $\color{#E09CE6}\text{dah}$
       &nbsp; &nbsp;
       $\color{#AD7ACB}\text{buat⠀ ⠀“}$
     </p>
