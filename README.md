@@ -52,6 +52,9 @@
   <a href="https://aleealee.atabook.org">新book</a>
 &nbsp; &nbsp; &nbsp;
  <a href="https://www.tiktok.com/@pingstingkawaii_">tiki toki</a>
+&nbsp; &nbsp; &nbsp;
   <a href="https://youtu.be/MpPF7w9FfQg?si=tviWN7UrutUluG4J">˶ˊ☐ˋ˶</a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://pronouns.cc/minidiskyute">
 </p>
   <hr>
