@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="220" height="124" alt="popmusic-popcorn-ab" src="https://github.com/user-attachments/assets/af9822e3-b214-4f3b-bb97-d50f235fc3fe" />
+  wip here
  <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o2qzvpinpd3nrild7gf3wyymcq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=824b17&bar_color_cover=false&mode=dark">
   </a>
