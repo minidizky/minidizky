@@ -1,5 +1,5 @@
 <p align="center">
-  wip here
+<img width="2048" height="2048" alt="Untitled34_20261124170921" src="https://github.com/user-attachments/assets/ed375c6d-7dfc-463d-9794-3ca6453cf78c" />
  <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o2qzvpinpd3nrild7gf3wyymcq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=824b17&bar_color_cover=false&mode=dark">
   </a>
