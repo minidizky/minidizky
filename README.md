@@ -58,7 +58,7 @@
   <a href="https://pronouns.cc/minidiskyute">kyaaaa prns</a>
 </p>
   <hr>
-<p style="text-align: center;">
+<p align="center">
  im
  &nbsp; &nbsp;
  the
