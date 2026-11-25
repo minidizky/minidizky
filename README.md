@@ -58,4 +58,17 @@
   <a href="https://pronouns.cc/minidiskyute">kyaaaa prns</a>
 </p>
   <hr>
-<p align=“center”>im the one forcing tabby <33</p>
+<p style="text-align: center;">
+ im
+ &nbsp; &nbsp;
+ the
+ &nbsp; &nbsp;
+ one
+ &nbsp; &nbsp;
+ forcing
+ &nbsp; &nbsp;
+ tabby
+ &nbsp; &nbsp;
+ <33
+</p>
+
